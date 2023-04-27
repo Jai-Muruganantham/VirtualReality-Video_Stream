@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.18.2",
+    "serve-static": "^1.15.0",
+    "ws": "^8.9.0"
+  }
+}
